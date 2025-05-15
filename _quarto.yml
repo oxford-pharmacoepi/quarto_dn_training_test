@@ -1,5 +1,7 @@
 project:
+  type: website
   title: "asdfg"
+  output-dir: _site
 
 editor: visual
 
